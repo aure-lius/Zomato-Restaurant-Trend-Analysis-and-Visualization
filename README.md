@@ -80,7 +80,7 @@ Source: `zomato.csv`
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/zomato-data-analysis.git
+   git clone https://github.com/aure-lius/Zomato-data-analysis
    ```
 2. Navigate to the directory:
    ```bash
