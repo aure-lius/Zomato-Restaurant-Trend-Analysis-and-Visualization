@@ -117,7 +117,7 @@ Source: `zomato.csv`
 
 ## 👩‍💻 Author
 
-- **Your Name**  
+- Mankirat Singh Kang 
   [GitHub Profile](https://github.com/aure-lius)
 
 ---
