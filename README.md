@@ -1,5 +1,5 @@
 
-# 🍽️ Zomato Data Analysis
+# 🍽️ Zomato Restaurant Trend Analysis and Visualization
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) 
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)](https://pandas.pydata.org/) 
